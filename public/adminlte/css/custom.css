@@ -1,0 +1,22 @@
+
+#wrapper {
+    position: relative;
+}
+.dataTables_length {
+    margin-right: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .form-system .panel-body .row {
+  	width: 48%;
+  	float: left;
+  	margin: 0 1%;
+  }
+
+.snap_image{
+  float: right;
+}
+.snap_div{
+  float: left;
+}
+}
